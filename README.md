@@ -11,7 +11,7 @@ The purpose of this project is to understand temperature trends in Oahu during t
 
 ## Summary of Results
 
-Overall, the outcomes of this project hold few, if any, surprises. While there were no significant challenges with focusing on the months of June and December, it became quite evident that there is a lot of data to parse, and, simultaneously, additional data that is absent from the decision-making process. Below are the three key differences I observed between June and December, as required within the scope of the project.
+Overall, the outcomes of this project hold few, if any, surprises. While there were no significant challenges with focusing on the months of June and December, it became quite evident that there is a lot of data to parse, and, simultaneously, additional data that is absent from the decision-making process (outside of weather). Below are the three key differences I observed between June and December, as required within the scope of the project.
 
 1.	Temperatures were overall warmer in June in Oahu than in December. While the island appears to experience mild temperatures year-round, the average temperature for June (all years) was 74.9°F, with December coming in slightly lower at 71.0°F. 
 

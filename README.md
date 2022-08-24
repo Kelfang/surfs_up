@@ -53,4 +53,4 @@ Based on the data I’ve reviewed and shared, I feel confident recommending that
 
 As climate changes occur, I believe it’s important to continue to analyze this data and the queries that have been built are easily replicated. In addition, if more data points were layered in, such as percentage of sun/clouds or percentage of humidity, that would only further enhance any future decisions should additional locations be considered.  
 
-[^1]: *WGN-TV Weather Blog, Posted Sept. 28, 2018. [Question and Answer Link](https://wgntv.com/weather/weather-blog/do-meteorologists-have-specific-definitions-for-drizzle-light-rain-steady-rain-heavy-rain-downpour/)
+[^1]: *WGN-TV Weather Blog, Posted Sept. 28, 2018.* [Question and Answer Link](https://wgntv.com/weather/weather-blog/do-meteorologists-have-specific-definitions-for-drizzle-light-rain-steady-rain-heavy-rain-downpour/)

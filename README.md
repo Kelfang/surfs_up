@@ -16,11 +16,13 @@ Overall, the outcomes of this project hold few, if any, surprises. While there w
 1.	Temperatures were overall warmer in June in Oahu than in December. While the island appears to experience mild temperatures year-round, the average temperature for June (all years) was 74.9°F, with December coming in slightly lower at 71.0°F. 
 
 <sub>Summary Statistics for Temperature in June and December – All Years</sub>
+
 ![Summary_stats_Temps](https://github.com/Kelfang/surfs_up/blob/main/Visualizations/Summary_stats_Temps.png)
 
 2.	Precipitation averages across all stations and all years show that the average December precipitation is approximately 0.08 inches more than June. However, it is worth noting that there are more records for June since the data includes June 2017, whereas the most recent data for December is 2016. Overall, rainfall is nominal within these two months.
 
 <sub> Summary Statistics for Precipitation in June and December – all years</sub>
+
 ![Summary_stats_Precip](https://github.com/Kelfang/surfs_up/blob/main/Visualizations/Summary_stats_Precip.png)
 
 3.	There does seem to be a possible correlation between temperature and precipitation. The month of December has lower temperatures and more rain, specifically more days where higher rainfall amounts are recorded at a station, while the averages are more similar to that of June. 
@@ -37,12 +39,14 @@ While having multiple sources around Oahu for data is helpful and paints a more 
 Below you can see that this scatterplot easily outlines that rain on Oahu falls in small daily increments with very few days of significant rainfall. Often, it may be falling in one area of the island and not the other. 
 
 <sub>Daily Station Averages of Precipitation and Temperatures in Oahu – All Years</sub> 
-(https://github.com/Kelfang/surfs_up/blob/main/Visualizations/DSA_of_Prec_and_Temp_All_Years.png)
+
+![DSA_Precip_Temps_All_Years](https://github.com/Kelfang/surfs_up/blob/main/Visualizations/DSA_Precip_Temps_All_Years.png)
 
 Even when evaluating the most recent months of December and June, you can see that the daily average doesn’t exceed 0.6 inches in either month. Almost half of June 2017 and December 2016 are recording less than 0.1 inches of rain. 
 
 <sub>Daily Station Averages of Precipitation and Temperatures in Oahu – 2016 and 2017</sub>
-(https://github.com/Kelfang/surfs_up/blob/main/Visualizations/DSA_of_Prec_and_Temp_2016_2017.png)
+
+![DSA_Precip_Temps_2016_2017](https://github.com/Kelfang/surfs_up/blob/main/Visualizations/DSA_Precip_Temps_2016_2017.png)
 
 ## Final Thoughts
 
